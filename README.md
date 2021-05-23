@@ -1,4 +1,4 @@
-<h1 align="center">Hey!there👋 My name is Aditya Balpande</h1>
+<h1 align="center">Hey! 👋 My name is Aditya Balpande</h1>
 <h3 align="center">I'm a teen disruptor, who is executing few ideas...</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=awesome12-arch&label=Profile%20views&color=0e75b6&style=flat" alt="awesome12-arch" /> </p>
@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **adityabalpande66@gmail.com**
 
-- 📄 Know about my experiences [https://www.notion.so/My-name-is-Aditya-Balpande-ac74154348d1423ab4a0faf08ad0e938](https://www.notion.so/My-name-is-Aditya-Balpande-ac74154348d1423ab4a0faf08ad0e938)
+- 📄 Know about my experiences [https://www.linkedin.com/in/aditya-balpande-20b254195/]
 
 - ⚡ Fun fact **I'm the Best :sunglasses:**
 
