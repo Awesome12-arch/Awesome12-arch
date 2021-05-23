@@ -17,8 +17,6 @@
 
 - 📫 How to reach me **adityabalpande66@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/aditya-balpande-20b254195/]
-
 - ⚡ Fun fact **I'm the Best :sunglasses:**
 
 
