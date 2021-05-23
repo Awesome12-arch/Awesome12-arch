@@ -11,11 +11,11 @@
 
 - 🤝 I’m looking for help with **my startup ideas..:sunglasses:**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Awesome12-arch](https://github.com/Awesome12-arch)
+- 👨‍💻 All of my projects are available at [https://github.com/Awesome12-arch?tab=repositories](https://github.com/Awesome12-arch)
 
 - 💬 Ask me about **Anything you want :smile:**
 
-- 📫 How to reach me **adityabalpande66@gmail.com**
+- 📫 You can reach me at **adityabalpande66@gmail.com**
 
 - ⚡ Fun fact **I'm the Best :sunglasses:**
 
