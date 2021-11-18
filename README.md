@@ -1,4 +1,4 @@
-<h1 align="center">Hello! 👋 My name is Aditya Balpande</h1>
+<h1 align="center">Hello! 👋 My name is Aditya</h1>
 <h3 align="center">I'm a teen disruptor, who is executing few ideas that will impact billions...</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=awesome12-arch&label=Profile%20views&color=0e75b6&style=flat" alt="awesome12-arch" /> </p>
