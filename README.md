@@ -3,11 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=awesome12-arch&label=Profile%20views&color=0e75b6&style=flat" alt="awesome12-arch" /> </p>
 
-- 🔭 I’m currently working on [Startups]
 
 - 🌱 I’m currently learning **Engineering and its applications in the real world..**
-
-- 👯 I’m looking to collaborate on [My Ideas]
 
 - 🤝 I’m looking for help with **my startup ideas..:sunglasses:**
 
