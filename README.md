@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Anything you want :smile:**
 
-- 📫 You can reach me at **adityabalpande66@gmail.com**
+- 📫 You can reach me at **adityabalpande01@gmail.com**
 
 - ⚡ Fun fact **I'm the Best :sunglasses:**
 
